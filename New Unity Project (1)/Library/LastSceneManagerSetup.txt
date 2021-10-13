@@ -1,5 +1,1 @@
-sceneSetups:
-- path: Assets/Scenes/Week 03/FunctionsBasic.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
+sceneSetups: []
