@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Week 06/Week6Class.unity
+- path: Assets/Scenes/Week 8/FizzBuzz.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
