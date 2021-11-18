@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Week 8/FizzBuzz.unity
-=======
-- path: Assets/Scenes/Week 06/ListsAndArrays.unity
->>>>>>> 0ea115ceb753f319ec2ca73b072c4e8d92ce8444
+- path: Assets/Scenes/Week 09/ThunderGod.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
