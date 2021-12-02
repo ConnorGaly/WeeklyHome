@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Week 09/ThunderGod.unity
+- path: Assets/Scenes/Week 11/Enemy.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
